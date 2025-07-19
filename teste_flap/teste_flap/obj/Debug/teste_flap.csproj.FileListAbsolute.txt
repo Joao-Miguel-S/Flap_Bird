@@ -1,0 +1,54 @@
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe.config
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.pdb
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Form1.resources
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Properties.Resources.resources
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.GenerateResource.cache
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.exe
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.pdb
+C:\Users\labsc3\Desktop\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csprojResolveAssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Form1.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Properties.Resources.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.GenerateResource.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Form1.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Properties.Resources.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.GenerateResource.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Form1.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Properties.Resources.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.GenerateResource.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\C# cp2\brincarForms\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.pdb
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe.config
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.exe
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\bin\Debug\teste_flap.pdb
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.AssemblyReference.cache
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.exe.config
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Form1.resources
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.Properties.Resources.resources
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.GenerateResource.cache
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.csproj.CoreCompileInputs.cache
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.exe
+C:\Users\João Miguel\Desktop\ParaPostar\flap_final\teste_flap\teste_flap\obj\Debug\teste_flap.pdb
