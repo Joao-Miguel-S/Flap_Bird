@@ -9,6 +9,8 @@
 
 <p>Para tornar esse projeto possível, utilizo a criação dinâmica de PictureBoxes para servirem como barreiras e, com o método Random, defino aleatoriamente dentro de um escopo a localização do espaço vazio para a passagem do jogador. Vale ressaltar que esse espaço é determinado com base na abertura da barreira anterior, o que impede a geração de passagens impossíveis. A movimentação das barreiras e a gravidade são controladas pelos ticks do Form.</p>
 
+<p>Para jogar, basta baixar a pasta release</p>
+
 ## Gameplay
 
 <p>O jogador pode fazer os pulos com as teclas: Q W E, que representam respectivamente: pulo grande, pulo normal e pulo pequeno. A cada 5 pontos que o usuário alcança, a velocidade do jogo aumenta.</p>
